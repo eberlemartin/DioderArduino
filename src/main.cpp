@@ -199,6 +199,7 @@ void loop(){
       break;
 
     case off:
+	//just to commit
       Serial.println("State: Off");
       //shows light is off
       lightOn = false;
